@@ -1,6 +1,6 @@
 {
   "name": "todo-list-react-hooks",
-  "homepage": "https://todo-list-5rdl443l3.vercel.app/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
